@@ -1,2 +1,4 @@
-# app-objectsibi-detection
-ANDROID APPLICATION FOR LEARNING MEDIA FOR DEAF CHILDREN USING IMAGE RECOGNITION BASED ON DEEP LEARNING TECHNOLOGY
+# TensorFlowLite-Android
+Repository for experiment with TensorFlowLite
+
+more details, see http://adiandrea.id/articles/2018-05/tensor-flow-lite-android
